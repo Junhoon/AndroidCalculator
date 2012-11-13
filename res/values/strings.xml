@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="send_button_text">Вычислить</string>
+    <string name="input_hint">Введите арифметическое\nвыражение\n\nДопустимые операции:\n+, -, *, /, ^</string>
+
+</resources>
